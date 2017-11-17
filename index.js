@@ -12,7 +12,7 @@ BoardMember.prototype.approve = function(){
   return 'You can do that!'
 }
 
-BoardMember.protoype.doCharity = function(){
+BoardMember.prototype.doCharity = function(){
   return 'I like to help people.'
 }
 //   this.veto = function(){
